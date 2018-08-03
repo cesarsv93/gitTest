@@ -7,4 +7,6 @@ integrantes
 y sus
 nombres
 son:
+Heber
+Cesar
 jesus
